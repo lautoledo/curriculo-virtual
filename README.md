@@ -23,14 +23,18 @@ https://drive.google.com/drive/folders/1kmIP8uMZa_iKmr2aP1K6E1h5L3mKww1E?usp=sha
 Aqui estão algumas capturas de tela do site:
                                                         
 Página Inicial
+
 https://drive.google.com/file/d/1KXPKU43X7ovZGV3wteXyTDYvTsSVThnB/view?usp=sharing
  
 Sobre mim
 
+https://drive.google.com/file/d/13xdBatjIIyiaK_Zx2N7VGs5wWVt9w5Ma/view?usp=sharing
  
 Formação Acadêmica
 
+https://drive.google.com/file/d/1jDw9JKJOlQGSNNzZqklceuVuISMPJudB/view?usp=sharing
  
 Contato
 
+https://drive.google.com/file/d/1DhcZjbNdGDqX8gv2BxW8X7XuQiB6jQB8/view?usp=sharing
 
