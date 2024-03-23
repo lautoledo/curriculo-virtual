@@ -1,3 +1,5 @@
+![foto de gatinho](https://www.petz.com.br/blog/wp-content/uploads/2020/04/meu-primeiro-gato.jpg)
+
 Meu Site de Currículo Virtual
 Este é o meu site de currículo virtual, onde apresento minhas habilidades, experiências e projetos profissionais.
 
