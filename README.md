@@ -8,12 +8,15 @@ Meu site de currículo virtual foi criado para fornecer uma visão detalhada sob
 ### 💻 Acesso ao Site
 
 O site está hospedado online e pode ser acessado através do seguinte link:
+
+
 https://lauanetoledo.netlify.app/ 
 (link-do-site)
 
 ### 🗳️ Código-fonte
 
 O código-fonte do site está disponível no GitHub. Você pode acessá-lo através do seguinte link:
+
 https://github.com/lautoledo/curriculo-virtual
 (link-do-repositorio)
 
@@ -31,6 +34,7 @@ https://github.com/lautoledo/curriculo-virtual
 ### 📱 Imagens Utilizadas
 
 As imagens utilizadas no desenvolvimento do site estão disponíveis no seguinte link:
+
 https://drive.google.com/drive/folders/1kmIP8uMZa_iKmr2aP1K6E1h5L3mKww1E?usp=sharing
 (link-para-as-imagens)
 
